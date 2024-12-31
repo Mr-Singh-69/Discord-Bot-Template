@@ -1,5 +1,5 @@
 # This is a template that help you get started with discord bot development.
-#- Actual code you will have to write your self (DIY)
+#-Actual code you will have to write your self (DIY)
 <details>
 <summary> Here's how to set it up!!</summary>
 <br>
